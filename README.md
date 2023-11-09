@@ -1,6 +1,6 @@
-##AGE Calculator ReactApp
+## AGE Calculator ReactApp
 
-##Preview 
+## Preview 
 
 Deployment link : https://mern3-react-js-task5-piyush-patel.vercel.app/
 
